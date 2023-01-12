@@ -26,3 +26,6 @@ if(!emailVal.test(search.value)){
 
 
 }
+
+
+cheacker();
